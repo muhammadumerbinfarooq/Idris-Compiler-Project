@@ -1,5 +1,3 @@
-
-idris
 module Compiler
 
 import Data.Vect
